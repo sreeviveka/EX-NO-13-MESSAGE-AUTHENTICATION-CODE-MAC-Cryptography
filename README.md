@@ -1,5 +1,6 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
-
+## NAME: V.S.SREE VIVEKA
+## REG NO: 2305001031
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
 
@@ -78,7 +79,7 @@ int main() {
 ```
 
 ## Output:
-
+<img width="744" height="429" alt="image" src="https://github.com/user-attachments/assets/c42603db-1c57-422d-a654-51db5f0ae545" />
 
 ## Result:
 The program is executed successfully.
